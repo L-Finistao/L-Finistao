@@ -18,11 +18,11 @@ Estudante de Engenharia de Computação com sólida experiência em programaçã
 
 ## Projetos Destacados
 
-### [[TDD API REST](https://github.com/L-Finistao/TDD_API_REST)](link para o projeto)
+### [[TDD API REST](https://github.com/L-Finistao/TDD_API_REST)]
 Neste Repositorio disponibilizo os codigos usados em na live code Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja da Digital Innovetion One onde foi realizado teste unitarios a apresentação de uma API REST para o gerenciamento de estoques de cerveja. e a criação de um teste untario para a valida…
 
 
-### [solucao_e-commerce_com_microsserviços_Java (https://github.com/L-Finistao/solucao_e-commerce_c_microsservi-os_Java)](link para o projeto)
+### [solucao_e-commerce_com_microsserviços_Java](https://github.com/L-Finistao/solucao_e-commerce_c_microsservi-os_Java)
 Neste projeto prático iremos desenvolver uma solução de e-commerce com a arquitetura de microsserviços e aplicar a integração entre eles orientada a eventos com Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do Spring (Spring Boot, Spring …
 
 
