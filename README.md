@@ -24,7 +24,8 @@ Estudante de Engenharia de Computação com sólida experiência em programaçã
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=L-Finistao&show_icons=true&theme=transparent"></a>
 </div>
-## Projetos Destacados
+
+**Projetos Destacados**
 
 ### [[TDD API REST](https://github.com/L-Finistao/TDD_API_REST)]
 Neste Repositorio disponibilizo os codigos usados em na live code Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja da Digital Innovetion One onde foi realizado teste unitarios a apresentação de uma API REST para o gerenciamento de estoques de cerveja. e a criação de um teste untario para a valida…
