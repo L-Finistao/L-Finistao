@@ -1,12 +1,20 @@
 # Sobre Mim
 
-Olá! Sou [Seu Nome], um entusiasta da programação apaixonado por [suas principais áreas de interesse]. Atualmente, trabalho como [sua posição atual] na [sua empresa/organização].
+**Resumo Profissional:**
 
-## Habilidades
+Estudante de Engenharia de Computação com sólida experiência em programação e desenvolvimento de sistemas. Possuo habilidades avançadas em HTML/CSS, Java, C/C++, Assembly, API REST, SGBDR, Spring Boot e Spring WebFlux. Certificado CCNA.V7, demonstrando competência em redes de computadores.
 
-- Linguagens de Programação: Python, JavaScript, Java
-- Tecnologias: React, Node.js, Docker
-- Banco de Dados: MongoDB, MySQL
+**Principais Competências:**
+- Programação: HTML/CSS, Java, C/C++, Assembly
+- Desenvolvimento de Aplicações: Spring Boot, Spring WebFlux
+- Interação com Bancos de Dados: SGBDR
+- Conhecimento em Redes: Certificado CCNA.V7
+- Implementação de APIs: API REST
+
+**Realizações Notáveis:**
+- Concluiu com êxito o curso CCNA.V7, consolidando conhecimentos em redes de computadores.
+- Desenvolveu aplicações utilizando tecnologias como Spring Boot, demonstrando habilidades avançadas em desenvolvimento backend.
+- Competência em programação em diversas linguagens, incluindo Java, C/C++, e Assembly.
 
 ## Projetos Destacados
 
@@ -18,7 +26,7 @@ Breve descrição do projeto 2.
 
 ## Contato
 
-- Email: seu@email.com
+- Email: [seu@email.com](mailto:seu@email.com)
 - LinkedIn: [Seu Perfil no LinkedIn](link para o LinkedIn)
 - Twitter: [@seuhandle](link para o Twitter)
 
