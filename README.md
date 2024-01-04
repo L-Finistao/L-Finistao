@@ -21,7 +21,7 @@ Estudante de Engenharia de Computação com sólida experiência em programaçã
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Finistao&langs_count=8" alt="Top Langs" />
 </a>
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Finistao&show_icons=true&theme=transparent)
 ## Projetos Destacados
 
 ### [[TDD API REST](https://github.com/L-Finistao/TDD_API_REST)]
